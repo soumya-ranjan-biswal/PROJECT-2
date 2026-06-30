@@ -333,7 +333,7 @@ background: linear-gradient(90deg,rgba(186, 102, 102, 1) 0%, rgba(87, 199, 133, 
 }
 
 .contact-section {
-    max-width: 1100px;
+    width: 100%;
     padding: 2em 35px;
     background: #3F5EFB;
 background: radial-gradient(circle,rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
